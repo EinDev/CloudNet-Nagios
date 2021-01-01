@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# http://10.8.0.1:2812/tps
+# Version 1.0
 import nagiosplugin
 import argparse
 import urllib.request
