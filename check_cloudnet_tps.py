@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Version 1.0
+# Version 1.1
 import nagiosplugin
 import argparse
 import urllib.request
